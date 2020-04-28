@@ -1,22 +1,14 @@
 ![monkey](https://gifsanimados.de/img-gifsanimados.de/c/computadoras/computadora-mono-tira-29.gif)
 
-## Las Arrayadas  :speak_no_evil::hear_no_evil::see_no_evil:
+
 
 ## Generador de Tarjetas de Visita Digitales Personalizables => Be Ecofriendly :seedling:!!
 
- 
-## Integrantes 
 
-Eli Alkorta          ||  :octocat: https://github.com/eli-alkorta    
-Ana Cortés           ||  :octocat: https://github.com/cortesana  
-Ana Belén Ferreira   ||  :octocat: https://github.com/    
-Celia Gutiérrez      ||  :octocat: https://github.com/celiagmar   
-Gádor Villanueva     ||  :octocat: https://github.com/gavimar     
- 
 
 ## Objetivos  :dart:
 
-1.  Lidiar con código heredado y ser capaces de refactorizarlo. 🤯
+1.  Lidiar con código heredado y refactorizarlo. 🤯
     
 2.  Saber identificar y generar los componentes de una página, separarlos y crear componentes          visualmente similares a partir de estos. 👩‍💻
     
